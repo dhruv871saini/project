@@ -1,0 +1,43 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .footer-col {
+    margin-bottom: 20px;
+  }
+  
+  .footer-col h5 {
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  .footer-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-col li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-col a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-col a:hover {
+    color: #ccc;
+  }
+  
+  .footer-copyright {
+    background-color: #444;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .footer-copyright p {
+    margin-bottom: 0;
+  }
